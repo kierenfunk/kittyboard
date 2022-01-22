@@ -156,8 +156,8 @@ const Index = () => {
             }}>
                     <Keyboard {...{keys,blackKeyMapping, playSound}}/>
             </div>
-            <div style={{backgroundColor: 'white', padding:'6px'}}>
-                Made by <a href="https://www.twitter.com/kierenfunk">@kierenfunk</a>
+            <div style={{backgroundColor: 'white', padding:'6px', textAlign: 'center'}}>
+                Prefer dogs? <a href="https://woofyboard.xyz">woofyboard.xyz</a> | Made by <a href="https://www.twitter.com/kierenfunk">@kierenfunk</a>
             </div>
         </div>
     )
